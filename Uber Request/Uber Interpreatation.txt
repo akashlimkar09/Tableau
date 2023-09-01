@@ -1,0 +1,3 @@
+Interpretation using Tableau:
+
+In the context of the provided exam questions, Tableau proves to be an invaluable tool for uncovering insights from the Uber ridership data. When analyzing demand patterns, Tableau's capacity to handle time-series data is instrumental. Through dynamic visualizations,identified the major time slots with higher ride requests, assisting in optimizing driver allocation during peak hours.Factors impacting incomplete rides are shown by Pie chart and its contribution in incomplete ride. Moreover, in highlighting the supply-demand relationship, Tableau's ability to create stacked bar plots which provides a comprehensive view of how ride supply aligns with demand, allowing us to suggest strategies to balance these dynamics.
